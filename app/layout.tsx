@@ -27,7 +27,7 @@ export default function RootLayout({
         </header>
         <main className="container mx-auto p-4 flex-grow">{children}</main>
         <footer className="bg-black text-white p-4 text-center">
-          <p>&copy; 2023 University of Waterloo OpenCourseware</p>
+          <p>&copy; 2025 University of Waterloo OpenCourseware</p>
         </footer>
       </body>
     </html>
