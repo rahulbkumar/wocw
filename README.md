@@ -1,7 +1,8 @@
 # WOCW: Waterloo OpenCourseWare Concept
 
 - When studying for midterms and finals, I often reference MIT's OCW. I always wondered how much easiar studying would be if you could easily find all class resources for UW classes. So, I created WOCW: Waterloo's OpenCourseWare. Currently just a concept project, yet has the potential to help all UW students. Made with Next, Framer, and V0.
-- ![Uploading UWaterlooOpenCourseWareThumbnail.png…]()
+
+![Uploading UWaterlooOpenCourseWareThumbnail.png…]()
 
 
 ## Demo Video:
